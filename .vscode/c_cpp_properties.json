@@ -6,9 +6,9 @@
         {
             "name": "Win32",
             "includePath": [
-                "c:/Users/simeon.ramjit/Documents/projects/9C-Counter/include",
-                "c:/Users/simeon.ramjit/Documents/projects/9C-Counter/src",
-                "c:/Users/simeon.ramjit/Documents/projects/9C-Counter/.pio/libdeps/controllino_maxi/CONTROLLINO",
+                "c:/Users/simeon.ramjit/Documents/projects/9C_Counter/include",
+                "c:/Users/simeon.ramjit/Documents/projects/9C_Counter/src",
+                "c:/Users/simeon.ramjit/Documents/projects/9C_Counter/.pio/libdeps/controllino_maxi/CONTROLLINO",
                 "C:/Users/simeon.ramjit/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "C:/Users/simeon.ramjit/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/simeon.ramjit/.platformio/packages/framework-arduino-avr/variants/Controllino_maxi",
@@ -22,9 +22,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/simeon.ramjit/Documents/projects/9C-Counter/include",
-                    "c:/Users/simeon.ramjit/Documents/projects/9C-Counter/src",
-                    "c:/Users/simeon.ramjit/Documents/projects/9C-Counter/.pio/libdeps/controllino_maxi/CONTROLLINO",
+                    "c:/Users/simeon.ramjit/Documents/projects/9C_Counter/include",
+                    "c:/Users/simeon.ramjit/Documents/projects/9C_Counter/src",
+                    "c:/Users/simeon.ramjit/Documents/projects/9C_Counter/.pio/libdeps/controllino_maxi/CONTROLLINO",
                     "C:/Users/simeon.ramjit/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "C:/Users/simeon.ramjit/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/simeon.ramjit/.platformio/packages/framework-arduino-avr/variants/Controllino_maxi",
